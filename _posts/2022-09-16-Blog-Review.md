@@ -1,22 +1,22 @@
-####Project: The William F. Cody Archive 
+#### Project: The William F. Cody Archive 
 
-####Project Director: Paul Hutton, Ph.D
+#### Project Director: Paul Hutton, Ph.D
 
-####Project URL:(https://codyarchive.org/)
-
-
+#### Project URL:(https://codyarchive.org/)
 
 
 
-###SUMMARY
+
+
+### SUMMARY
 
 _The William F. Cody Archive: Documenting the life and times of Buffalo Bill_ is a project developed together by the McCracken Research Library at the Buffalo Bill Center of the West and the University of Nebraska–Lincoln. This archive holds important information of American national development, specifically the American west, from the late nineteenth-century to the early twentieth-century. In this digital archive, users will find biographies, illustrations, topics covering “Buffalo Bill” himself, as well as much more. 
 
-###HUMANISTIC CLAIM
+### HUMANISTIC CLAIM
 
 As a historical project the archive of William F. Cody includes the humanities topics of history and politics. Cody was a man who took roles during his lifetime as a community founder, businessman, and rancher, as well as an investor who spoke on political, economic, and environmental policies that were affecting the western development. All of the tabs you will find on the home page of this project will lead users to the experiences Cody had throughout his life in hopes to make as much material available to the public as possible so people may learn about him. This archive strives to show users the historic evolution and idealization of the American west through the viewpoint of William F. Cody, better known as “Buffalo Bill.”
 
-###PROJECT DESIGN 
+### PROJECT DESIGN 
 
 I really enjoyed how the project partners organized the collected information for the _William F. Cody Archive_ as well as how the design was laid out. The collected information is organized into eight main sections; life, texts, topics, images, scholarship, memorabilia, community, and multimedia which is very easy to navigate and is clear as to where the different topics of information are located. When browsing through any of these eight sections users will find a variety of sub-tabs that will point them in the right direction when/if searching for something more specific under the main topic. 
  
@@ -29,7 +29,7 @@ Because this digital humanities project is so large and holds a wide variety of 
 
 Users also have the option to search the finder bar where they can type in a specific person or place they are interested in. If you are already in one of the other tabs (i.e. life, topics, scholarship) the search bar will then move toward the top left of the browser. If the user is unsure of who they are looking for or what places they want to learn more about, the search tab for “People” will provide an alphabetical list of each person included in this project to choose from, and the search tab for “Places” will provide an alphabetical list of each place included in this project. 
 
-###TECHNOLOGY USED/DEVELOPED
+### TECHNOLOGY USED/DEVELOPED
 
 Under the multimedia tab there are two sections listed. One section leads you to audio clips featuring Cody himself, who at the time was a well-known celebrity who was convinced by pioneers of sound to make recordings used for demonstration and commercial use. The second section leads you to various video clips that Cody made when given the opportunity to create films such as documentary-style films. These video clips are made accessible by TEI encoded XML youtube videos. 
 
@@ -41,7 +41,7 @@ Unfortunately in the video clip part of the multimedia section has some problema
 
 Something I personally enjoyed and found interesting while browsing through this project was the “Images” tab. This tab includes photographs from illustrations from mass-produced books, photographs of Cody and his family, postcards from _Buffalo Bill's Wild West Tours_, visual art that include Cody as the subject or that Cody commissioned himself, posters from _Buffalo Bill’s Wild West_ exhibitions, and cabinet cards of Cody from different years. Many individuals are visual learners and the inclusion of these images helped users paint a picture of William F. Cody and the time period he lived in. 
 
-###CONCLUSION
+### CONCLUSION
 
 Overall, this project was very easy to navigate through, especially to those who may be new to the digital humanities. The inclusion of the eight tabs on the home page which split up the information was a great way to organize the information from this project. The idea of a search bar was also beneficial in finding my way around such a big project. I really appreciated how there were sub tabs underneath the main tabs which made it easy to find the information I was looking for. As a visual learner, I also really enjoyed the variety of pictures included in the “Images” tab as well as the youtube videos included in the video section of the “Multimedia” tab despite their not being closed captions or scripted text to follow along with. This archive on William F. (Buffalo Bill) Cody was done exceptionally well and certainly brings Cody’s history to life. 
  
