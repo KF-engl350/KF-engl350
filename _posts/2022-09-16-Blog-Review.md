@@ -2,7 +2,7 @@
 
 #### Project Director: Paul Hutton, Ph.D
 
-#### Project URL: (https://codyarchive.org/)
+#### Project URL: [https://codyarchive.org/](https://codyarchive.org/)
 
 
 
