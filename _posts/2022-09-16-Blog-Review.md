@@ -25,7 +25,7 @@ I really enjoyed how the project partners organized the collected information fo
  
 When first browsing through the website the user can see there are ten various tabs all showcasing different topics of information one can look at. These navigation tabs highlight when the user hovers their mouse over them, and once they click one one, it takes them to a new page with new information to browse through. For example, when selecting the “Life” tab the browser will take the user to a new page with four new subsections; biographies, personography, chronology, and encyclopedia. Within these four tabs the user will find all the information available about that topic, which is a great way to ensure that users are finding all the information available to them. 
 
-!["life" tab](https://github.com/KF-engl350/KF-engl350/blob/b42f388a237fdbe3e01e6d1148fd63d72debefd0/Images/Website.png)
+![life tab](https://github.com/KF-engl350/KF-engl350/blob/b42f388a237fdbe3e01e6d1148fd63d72debefd0/Images/Website.png)
 
 I find this digital project to be very organized and easy to navigate for individuals of all technical proficiencies. The website's easy navigation is also in credit to the wide array of sub-tabs after clicking on the main tabs. For example, when clicking on the “Life” tab, four additional  subsections come up with specific 
 information pertaining to the main topics that help guide you to the information you are looking for.  
