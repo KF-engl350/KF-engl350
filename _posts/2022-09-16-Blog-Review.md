@@ -7,7 +7,7 @@
 
 
 
-![Review Blog Home Page](https://github.com/KF-engl350/KF-engl350/blob/6955055677c0324a3e02df985505c0a5401bb5d8/images/Review%20Blog%20Home%20Page.png)
+![Review Blog Home Page](https://kf-engl350.github.io/KF-engl350/images/reviewbloghomepage.png)
 
 
 
