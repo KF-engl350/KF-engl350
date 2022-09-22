@@ -1,6 +1,6 @@
 ###SUMMARY
 
-The William F. Cody Archive: Documenting the life and times of Buffalo Bill is a project developed together by the McCracken Research Library at the Buffalo Bill Center of the West and the University of Nebraska–Lincoln. This archive holds important information of American national development, specifically the American west, from the late nineteenth-century to the early twentieth-century. In this digital archive, users will find biographies, illustrations, topics covering “Buffalo Bill” himself, as well as much more. 
+_The William F. Cody Archive: Documenting the life and times of Buffalo Bill_ is a project developed together by the McCracken Research Library at the Buffalo Bill Center of the West and the University of Nebraska–Lincoln. This archive holds important information of American national development, specifically the American west, from the late nineteenth-century to the early twentieth-century. In this digital archive, users will find biographies, illustrations, topics covering “Buffalo Bill” himself, as well as much more. 
 
 ###HUMANISTIC CLAIM
 
@@ -8,7 +8,7 @@ As a historical project the archive of William F. Cody includes the humanities t
 
 ###PROJECT DESIGN 
 
-I really enjoyed how the project partners organized the collected information for the William F. Cody Archive as well as how the design was laid out. The collected information is organized into eight main sections; life, texts, topics, images, scholarship, memorabilia, community, and multimedia which is very easy to navigate and is clear as to where the different topics of information are located. When browsing through any of these eight sections users will find a variety of sub-tabs that will point them in the right direction when/if searching for something more specific under the main topic. 
+I really enjoyed how the project partners organized the collected information for the _William F. Cody Archive_ as well as how the design was laid out. The collected information is organized into eight main sections; life, texts, topics, images, scholarship, memorabilia, community, and multimedia which is very easy to navigate and is clear as to where the different topics of information are located. When browsing through any of these eight sections users will find a variety of sub-tabs that will point them in the right direction when/if searching for something more specific under the main topic. 
  
 When first browsing through the website the user can see there are ten various tabs all showcasing different topics of information one can look at. These navigation tabs highlight when the user hovers their mouse over them, and once they click one one, it takes them to a new page with new information to browse through. For example, when selecting the “Life” tab the browser will take the user to a new page with four new subsections; biographies, personography, chronology, and encyclopedia. Within these four tabs the user will find all the information available about that topic, which is a great way to ensure that users are finding all the information available to them. 
 
@@ -29,7 +29,7 @@ The download option was a great detail to add for those who are using this DH pr
 
 Unfortunately in the video clip part of the multimedia section has some problematic issues. Although each youtube video played and the audio worked, there was no closed caption option available as well as no scripted text for users to follow. This could end up being a problem because of how old the videos are and how scratchy some of the audio sounds. Without closed caption or scripted text for users to follow along with while watching the video there is no way users can be sure if what they are hearing is accurate and if they are receiving all the information the video provides. This would also be a problem for those who are hard of hearing or have other disabilities. 
 
-Something I personally enjoyed and found interesting while browsing through this project was the “Images” tab. This tab includes photographs from illustrations from mass-produced books, photographs of Cody and his family, postcards from Buffalo Bill's Wild West Tours, visual art that include Cody as the subject or that Cody commissioned himself, posters from Buffalo Bill’s Wild West exhibitions, and cabinet cards of Cody from different years. Many individuals are visual learners and the inclusion of these images helped users paint a picture of William F. Cody and the time period he lived in. 
+Something I personally enjoyed and found interesting while browsing through this project was the “Images” tab. This tab includes photographs from illustrations from mass-produced books, photographs of Cody and his family, postcards from _Buffalo Bill's Wild West Tours_, visual art that include Cody as the subject or that Cody commissioned himself, posters from _Buffalo Bill’s Wild West_ exhibitions, and cabinet cards of Cody from different years. Many individuals are visual learners and the inclusion of these images helped users paint a picture of William F. Cody and the time period he lived in. 
 
 ###CONCLUSION
 
