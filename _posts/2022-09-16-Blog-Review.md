@@ -1,8 +1,8 @@
-#### Project: The William F. Cody Archive 
+**Project:** The William F. Cody Archive 
 
-#### Project Director: Paul Hutton, Ph.D
+**Project Director:** Paul Hutton, Ph.D
 
-#### Project URL: [https://codyarchive.org/](https://codyarchive.org/)
+ **Project URL:** [https://codyarchive.org/](https://codyarchive.org/)
 
 
 
