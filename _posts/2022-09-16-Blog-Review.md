@@ -1,3 +1,11 @@
+####Project:
+####Project Director:
+####Project URL:
+
+
+
+
+
 ###SUMMARY
 
 _The William F. Cody Archive: Documenting the life and times of Buffalo Bill_ is a project developed together by the McCracken Research Library at the Buffalo Bill Center of the West and the University of Nebraska–Lincoln. This archive holds important information of American national development, specifically the American west, from the late nineteenth-century to the early twentieth-century. In this digital archive, users will find biographies, illustrations, topics covering “Buffalo Bill” himself, as well as much more. 
