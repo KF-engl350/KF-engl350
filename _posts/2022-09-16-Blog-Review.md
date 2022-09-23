@@ -25,7 +25,7 @@ I really enjoyed how the project partners organized the collected information fo
  
 When first browsing through the website the user can see there are ten various tabs all showcasing different topics of information one can look at. These navigation tabs highlight when the user hovers their mouse over them, and once they click one one, it takes them to a new page with new information to browse through. For example, when selecting the “Life” tab the browser will take the user to a new page with four new subsections; biographies, personography, chronology, and encyclopedia. Within these four tabs the user will find all the information available about that topic, which is a great way to ensure that users are finding all the information available to them. 
 
-![life tab](https://github.com/KF-engl350/KF-engl350/blob/4d92f2257b481dab9229990007c8e7b0c277d734/Images/lifetab.png)
+![life tab](https://kf-engl350.github.io/KF-engl350//Images/lifetab.png)
 
 I find this digital project to be very organized and easy to navigate for individuals of all technical proficiencies. The website's easy navigation is also in credit to the wide array of sub-tabs after clicking on the main tabs. For example, when clicking on the “Life” tab, four additional  subsections come up with specific 
 information pertaining to the main topics that help guide you to the information you are looking for.  
@@ -42,7 +42,7 @@ The audio and video clips do not have dates and are therefore placed in a random
 
 The download option was a great detail to add for those who are using this DH project for a class project or research so they can easily download and use the audio recording in their own documents. Being able to change the playback speed is also very beneficial to users who have a hard time processing information and may need to slow the recording down to fully understand what they are listening to. The ability to change the playback speed combined with the inclusion of text underneath the recording allows people with disabilities to use this project for research/information as well.
 
-![Youtube video with no closed captions](https://github.com/KF-engl350/KF-engl350/blob/4d92f2257b481dab9229990007c8e7b0c277d734/Images/Youtubevideowithnoclosedcaptions.png)
+![Youtube video with no closed captions](https://kf-engl350.github.io/KF-engl350//Images/Youtubevideowithnoclosedcaptions.png)
 
 Unfortunately in the video clip part of the multimedia section has some problematic issues. Although each youtube video played and the audio worked, there was no closed caption option available as well as no scripted text for users to follow. This could end up being a problem because of how old the videos are and how scratchy some of the audio sounds. Without closed caption or scripted text for users to follow along with while watching the video there is no way users can be sure if what they are hearing is accurate and if they are receiving all the information the video provides. This would also be a problem for those who are hard of hearing or have other disabilities. 
 
