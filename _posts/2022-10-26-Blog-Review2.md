@@ -7,7 +7,8 @@ Christina M. Spiker
 **Project URL:**
 [http://mapping.cmspiker.com/japan/index](http://mapping.cmspiker.com/japan/index)
 
-![Home Page](https://kf-engl350.github.io/KF-engl350/Images/Reviewblogfour.png)
+
+
 
 ![Map Descriptions](https://kf-engl350.github.io/KF-engl350/Images/ReviewBlog.png)
 
