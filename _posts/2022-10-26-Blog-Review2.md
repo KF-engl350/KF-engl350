@@ -27,10 +27,12 @@ The technology used to develop this project impressed me as a user because of ho
 
 I really enjoyed that each map available had pin dots on certain locations that gave descriptions of the place or a quote from Unbeaten Tracks in Japan to show its purpose for being included on the map. On some of the maps there is even a color guide for the color of the dots found on the map that separates each region by color. For example, on the interactive map on Isabella in Japan, there is a map key in the top left corner that shows the blue dots represent the regions of Yokahama to Niigata. 
 
+![Interactive Map](https://kf-engl350.github.io/KF-engl350/Images/Reviewblogfive.png)
+
 Something neat that this project includes that many others I viewed do not is a place for users to voice their concerns about the site as well as give advance as to what they could do to make it better. For example, in the table of contents listed next to the number 6 is the title, “Illustrating the Book”. When arriving at this page users can click on the “Annotated Images” section and scroll down highlighted red section that says, “Not all sourced images have been discovered at this time and your help is needed.” It then goes on to say if the user notices that a photo has not been annotated they can scroll to the bottom of the page, and select the speech bubble and make a comment, or they can click the highlighted words that tell users to get in touch via email. Unfortunately, the embedded link for getting in touch via email leads to a page that cannot be found. This link error takes away from a user involvement that could be beneficial to the betterment of the project. 
 
 
-![Interactive Map](https://kf-engl350.github.io/KF-engl350/Images/Reviewblogfive.png)
+
 
 # Impact
 
