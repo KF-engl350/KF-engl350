@@ -10,6 +10,8 @@ Christina M. Spiker
 
 ![Home Page](https://kf-engl350.github.io/KF-engl350/Images/Reviewblogfour.png)
 
+# Summary 
+
 ![Map Descriptions](https://kf-engl350.github.io/KF-engl350/Images/ReviewBlog.png)
 
 ![Table of Contents](https://kf-engl350.github.io/KF-engl350/Images/ReviewBlogtwo.png)
