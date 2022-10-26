@@ -1,10 +1,10 @@
-Project:
+**Project:**
 Mapping Isabella Bird: Geolocation & Unbeaten Tracks in Japan
 
-Project Director(s):
+**Project Director(s):**
 Christina M. Spiker 
 
-Project URL:
+**Project URL:**
 [http://mapping.cmspiker.com/japan/index](http://mapping.cmspiker.com/japan/index)
 
 
