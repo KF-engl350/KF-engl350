@@ -19,9 +19,11 @@ This project includes the topics of travel writing, english, and history. Not on
 # Project Design 
 
 # Technology Used/Developed
+![Table of Contents](https://kf-engl350.github.io/KF-engl350/Images/ReviewBlogtwo.png)
+
 This project does a great job of using the technology available to advance its goals. Under the table of contents tab located in the top left corner of the home page, there is a list of ten options a user may choose from. The title of these ten tabs are; About, Isabella Bird: A Brief Biography, Writing on the World Stage, Traveling to Japan, Interactive Map Collection, Illustrating the Book, Why Unbeaten Tracks?, Biratori & Bird’s Account of Ainu Culture, The Saru River Valley Today, and Citation & Resources. There is also a button users can click under the title featured on the home page called “Begin with “Isabella Bird: A Brief Biography” that will guide users through the project section by section. This is beneficial to users who are not familiar with the project and want to explore everything it has to offer. 
 
-![Table of Contents](https://kf-engl350.github.io/KF-engl350/Images/ReviewBlogtwo.png)
+![Tab to Next Section](https://kf-engl350.github.io/KF-engl350/Images/Reviewblogthree.png)
 
 I found that the technology was easy to navigate as a new user. I appreciated how the project had a button located at the end of each section that led me to the next. This allowed me to learn more about Isabella Bird’s history in the order that it happened and the order that Spiker felt was best. I feel that if there was no button to click at the end of each section, I would be very confused about the order of events and what happened first. It also allowed me to understand what events happened as a result of something else that happened. 
 
@@ -40,7 +42,7 @@ Something neat that this project includes that many others I viewed do not is a 
 
 ![Map Descriptions](https://kf-engl350.github.io/KF-engl350/Images/ReviewBlog.png)
 
-![Tab to Next Section](https://kf-engl350.github.io/KF-engl350/Images/Reviewblogthree.png)
+
 
 
 
