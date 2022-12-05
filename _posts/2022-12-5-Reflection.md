@@ -7,7 +7,7 @@ When I registered for this class, I had an entirely different view of what it wo
 Out of all the assignments we have completed in this class, I would say my favorite one and the one I most enjoyed would be the lean canvas and ideation assignments. The grant project is one we had expected all semester and when the time finally came to create a project which interests us, I was very excited. I chose to incorporate my love for travel writing and journalism by completing a digital humanities project on Ernest Hemingway. Now, the reason the lean canvas and ideation assignments were my favorite is that this was the start of our thought process for our assignments and a way to put our creativity on paper, or in my case on Canva. I loved seeing what I visualized in my head come to life, and I think it inspired/motivated me to finish my final grant. 
 
 
-![Africa Map Canva](https://kf-engl350.github.io/KF-engl350/Images/CanvaMap.png)
+![Africa](https://kf-engl350.github.io/KF-engl350/Images/CanvaMap.png)
 
 
 As for an assignment I struggled with, I’d say it wasn’t necessarily the assignment, but the way in which we were completing it. GitHub was very difficult for me to use and navigate at the start. I am in no way a computer wizard and having to code and apply images to my review blog posts was challenging. It seemed every time I started to understand and get the hang of the coding techniques, some new issue would arise. Over time, and with practice, I had a much easier time with GitHub and with coding, and now I can say I am proficient in a new system.
