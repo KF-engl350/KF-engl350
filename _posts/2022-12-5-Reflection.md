@@ -1,6 +1,6 @@
 # Reflection Blog
 
-## What does DH mean to me?
+## What does Digital Humanities mean to me?
 When I registered for this class, I had an entirely different view of what it would entail. As a communication major, I thought this class would focus on social media such as Twitter, Facebook, Instagram, etc., and go more in-depth about the impact they have on society, but I was way off base with that assumption. After taking this course, I understand that it is a class about an academic field that focuses on applying digital tools and methods to what we know of traditional humanities subjects such as literature and history. So, yes, my definition of digital humanities has abruptly changed over the past three months. Although the class is not entirely what I expected, I feel like I have gained so much knowledge that will ultimately benefit me and my future endeavors as a communication major.
 
 ## What assignments did I enjoy/struggle with? 
