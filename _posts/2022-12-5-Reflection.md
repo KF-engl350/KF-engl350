@@ -18,4 +18,4 @@ I have most definitely seen the growth and development of my writing skills thro
 ## Conclusion
 Overall, I am glad my initial assumption about the class was wrong because if I had known, I probably wouldn’t have taken it. But now, since I have, I am grateful for the lessons it has given me and the knowledge I have gained and will take with me throughout my life in the communication/media fields. This class may not be for everyone, but I can say it is one of those courses that will benefit you in more ways than just learning about the digital humanities. It has made me a better writer, a better peer-reviewer for my fellow classmates, and more proficient in coding, all of which make me a better, more well-rounded student. 
 
-![hi](https://kf-engl350.github.io/KF-engl350/Images/Review.png)
+![Revision](https://kf-engl350.github.io/KF-engl350/Images/Review.png)
